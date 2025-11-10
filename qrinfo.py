@@ -21,7 +21,7 @@ from telegram.ext import (
 from apscheduler.schedulers.asyncio import AsyncIOScheduler
 
 # ==== CONFIGURATION ====
-TOKEN = '7564327801:AAFGaT3KwvsPkjP9jnNNPTCGwGGGAHF2ynI'            # BotFather टोकन डालें
+TOKEN = '7702254167:AAGMSqpuGk8asJYddjb-_xRyA5JAHin0Ohg'            # BotFather टोकन डालें
 ADMIN_ID = 1240179115               # एडमिन Telegram ID
 QR_IMAGE_PATH = 'qr.jpg'
 PRICE_LIST_LINK = "https://t.me/c/2428785017/2224"
